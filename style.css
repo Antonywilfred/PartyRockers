@@ -530,11 +530,10 @@ footer p.separator {
     display: block; /* Show image when screen size is greater than 768px */
   }
   .home .content .image img {
-    height: 6rem;
     margin-top: -1rem;
-    margin-bottom: 0.5rem;
-    transform: scale(2.5);
-    clip-path: inset(36% 0 20% 0);
+    margin-bottom: -1rem;
+    height: 9rem;
+    width: 17rem;
   }
 }
 
